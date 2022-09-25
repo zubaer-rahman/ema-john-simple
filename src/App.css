@@ -1,6 +1,14 @@
 .App-link {
   color: #61dafb;
 }
+.button-main {
+    background: #f0c14b;
+    border: 1px solid darkgray;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    cursor:pointer;
+}
 
 @keyframes App-logo-spin {
   from {

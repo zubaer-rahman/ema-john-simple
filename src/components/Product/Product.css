@@ -9,11 +9,3 @@
     color: blue ;
     font-weight: 400;
 }
-.addToCart{
-    background: #f0c14b;
-    border: 1px solid darkgray;
-    width: 150px;
-    height: 30px;
-    border-radius: 5px;
-    cursor:pointer;
-}
